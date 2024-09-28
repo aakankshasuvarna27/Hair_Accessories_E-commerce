@@ -1,0 +1,32 @@
+{
+  "name": "Hair Accessories store",
+  "short_name": "Hair accessories store",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#007bff",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/bow_clip.png",
+      "type": "images/png",
+      "sizes": "225x225"
+    },
+    {
+      "src": "images/scrunchies.png",
+      "type": "images/png",
+      "sizes": "225x225"
+    },
+    {
+      "src": "images/clips.png",
+      "type": "images/png",
+      "sizes": "225x225"
+    },
+    {
+      "src": "images/maskable_icon.png",
+      "type": "image/png",
+      "sizes": "225x225",
+      "purpose": "maskable"
+    }
+  ],
+  "description": "Trendy hair accessories to enhance your look."
+}
